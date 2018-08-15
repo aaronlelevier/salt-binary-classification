@@ -2,3 +2,4 @@
 *.zip
 *.csv
 .ipynb_checkpoints/
+MNIST_data/
