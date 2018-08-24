@@ -3,3 +3,5 @@
 *.csv
 .ipynb_checkpoints/
 MNIST_data/
+.pytest_cache/
+__pycache__/
